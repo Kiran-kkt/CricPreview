@@ -1,0 +1,11 @@
+# Added by code-review-graph
+.code-review-graph/
+
+# Virtual envs
+.venv/
+
+# Node modules
+node_modules/
+
+# Build assests
+dist/
